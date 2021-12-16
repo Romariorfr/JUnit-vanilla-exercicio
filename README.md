@@ -48,7 +48,7 @@ Foi implementado os seguintes testes para validar esta classe (total = 10 testes
 ### quota
 * Deve calcular corretamente o valor da prestação
 
-# Print do projeto implementado: 
+### Print do projeto implementado: 
 
 ![Web 1](https://github.com/Romariorfr/JUnit-vanilla-exercicio/blob/master/assets/tests.png)
 
